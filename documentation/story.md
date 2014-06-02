@@ -10,4 +10,5 @@ _**Figure 2**: **Mass bird migration observed on five operational weather radars
 
 Perhaps the most dramatic night in this time series is the night between April 8 and April 9 (figs 3 & 4). In some cases during this night radar images seem to be so saturated with birds that they are filtered out being mistakenly interpreted as rain. Wind speeds in the area reach 12 m/s and higher, very close to the average air speed of migrating passerines, common on such nights. In areas where the wind is blowing in the direction of intended flight (such as in southern Belgium) this is a huge benefit for migrants, but in areas where the wind is blowing in different direction this can cause birds to veer off their intended course and potentially slow down while trying to compensate for wind conditions.
 
+The situation seems to change dramatically on the 10 and 11th of April.
 
