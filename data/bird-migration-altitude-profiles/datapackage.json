@@ -1,0 +1,49 @@
+{
+    "name": "bird-migration-altitude-profiles",
+    "title": "Bird migration altitude profiles",
+    "description": "Bird migration data at different altitudes retrieved from 5 weather radars.",
+    "keywords": [
+        "radar",
+        "bird migration"
+    ],
+    "datapackage-version": "1.0-beta.10",
+    "licenses": [
+        {
+            "type": "cc-zero",
+            "url": "http://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    ],
+    "sources": [
+        {
+            "name": "ENRAM",
+            "web": "http://enram.eu"
+        }
+    ],
+    "maintainers": [
+        {
+            "name": "Hans van Gasteren",
+            "web": "https://twitter.com/hvangasteren"
+        },
+        {
+            "name": "Peter Desmet",
+            "web": "http://peterdesmet.com"
+        }
+    ],
+    "base": "https://github.com/enram/data-challenge/tree/master/data/bird-migration-altitude-profiles/",
+    "resources": [
+        {
+            "path": "bird-migration-altitude-profiles.csv",
+            "name": "bird-migration-altitude-profiles",
+            "format": "csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "",
+                        "description": "",
+                        "type": ""
+                    }
+                ]
+            }
+        }
+    ]
+}
