@@ -58,29 +58,22 @@
                         "type": "date"
                     },
                     {
-                        "name": "bird_reflectivity",
-                        "description": "Bird reflectivity as measured by the radar.",
-                        "type": "number",
-                        "unit": "dBZ"
-
-                    },
-                    {
                         "name": "altitude",
                         "description": "Altitude of the measurement.",
                         "type": "number",
                         "unit": "km"
                     },
                     {
+                        "name": "bird_reflectivity",
+                        "description": "Bird reflectivity as measured by the radar.",
+                        "type": "number",
+                        "unit": "dBZ"
+                    },
+                    {
                         "name": "radial_velocity_std",
                         "description": "Standard deviation of the radial velocity (= the general movement speed in the direction of the radar). To differentiate between bird and other reflectivity, use a threshold of >= 2.0 => birds.",
                         "type": "number",
                         "unit": "m/s"
-                    },
-                    {
-                        "name": "bird_density",
-                        "description": "Calculated number of birds per cubic kilometer.",
-                        "type": "number",
-                        "unit": "birds/km3"
                     },
                     {
                         "name": "u_speed",
@@ -101,11 +94,6 @@
                         "unit": "m/s"
                     },
                     {
-                        "name": "number_of_bins",
-                        "description": "Number of original measurement points around radar. Is lower for higher altitudes.",
-                        "type": "integer"
-                    },
-                    {
                         "name": "ground_speed",
                         "description": "General movement ground speed calculated from u_speed and v_speed.",
                         "type": "number",
@@ -116,6 +104,17 @@
                         "description": "General movement direction in degrees. 0 = North.",
                         "type": "number",
                         "unit": "degrees"
+                    },
+                    {
+                        "name": "bird_density",
+                        "description": "Calculated number of birds per cubic kilometer.",
+                        "type": "number",
+                        "unit": "birds/km3"
+                    },
+                    {
+                        "name": "number_of_bins",
+                        "description": "Number of original measurement points around radar. Is lower for higher altitudes.",
+                        "type": "integer"
                     }
                 ]
             }
