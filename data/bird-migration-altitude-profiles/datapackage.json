@@ -51,12 +51,12 @@
                     {
                         "name": "start_time",
                         "description": "Start timestamp for a measurement. Defines a measurement timeframe in combination with end_time.",
-                        "type": "date"
+                        "type": "datetime"
                     },
                     {
                         "name": "end_time",
                         "description": "End timestamp for a measurement.",
-                        "type": "date"
+                        "type": "datetime"
                     },
                     {
                         "name": "altitude",
