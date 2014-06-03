@@ -35,6 +35,7 @@
             "path": "bird-migration-altitude-profiles.csv",
             "name": "bird-migration-altitude-profiles",
             "format": "csv",
+            "mediatype": "text/csv",
             "schema": {
                 "fields": [
                     {
