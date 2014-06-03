@@ -110,7 +110,7 @@
                         "name": "bird_density",
                         "description": "Calculated number of birds per cubic kilometer.",
                         "type": "number",
-                        "unit": "birds/km3"
+                        "unit": "birds/km^3"
                     },
                     {
                         "name": "number_of_bins",
