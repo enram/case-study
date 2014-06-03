@@ -1,7 +1,7 @@
 {
     "name": "bird-migration-altitude-profiles",
     "title": "Bird migration altitude profiles",
-    "description": "Bird migration data at different altitudes retrieved from 5 weather radars.",
+    "description": "Bird migration data at different altitudes measured by 5 weather radars over the course of one week.",
     "keywords": [
         "radar",
         "bird migration"
