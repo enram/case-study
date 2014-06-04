@@ -1,3 +1,5 @@
+Draft list of use cases for visualizations, as recorded during WG3 meeting on February 7, 2014. Needs to be cleaned up + MoSCoW prioritized.
+
 ## For presentations
 
 * map migrating birds
