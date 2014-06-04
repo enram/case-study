@@ -45,7 +45,7 @@
                     },
                     {
                         "name": "radar_id",
-                        "description": "Numeric identifier for the radar.",
+                        "description": "ID of the radar issued by the World Meteorological Organization.",
                         "type": "integer"
                     },
                     {
