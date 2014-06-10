@@ -1,7 +1,7 @@
 # Description of the case study
 
 This case study focuses on a week of intense bird migration across Belgium and the Netherlands, from April 5 to 11, 2013. Spring 2013 was one of the coldest springs recorded over the last 40 years, with temperatures 4 degrees below average[^1].
-We begin the series on April 5, 2013 during the phase with little or no migration, and winds blowing predominantly to the SW. The following night between April 6 and 7 started with moderate NE migration, but was overruled after midnight with mass arrival of birds from the UK. In the flow visualisation, notice the increassing speed and change in direction just after midnight, April 7 2013, 01:00 UTC.
+We begin the series on April 5, 2013 during the phase with little or no migration, and winds blowing predominantly to the SW. The following night between April 6 and 7 started with moderate NE migration, but was overruled after midnight with mass arrival of birds from the UK. In this [flow visualization](http://enram.github.io/bird-migration-flow-visualization/viz/), notice the increassing speed and change in direction just after midnight, April 7 2013, 01:00 UTC.
 
 ## Complex weather conditions
 
@@ -11,7 +11,7 @@ During the coming nights weather conditions become very complex with extreme dif
 
 ![figure-1](../images/figure-1.png)
 
-_**Figure 1**: **Mass bird migration observed on five operational weather radars.** Nocturnal bird migration measured by two operational weather radars in the Netherlands (a. Den Helder and b. De Bilt) and three operational weather radars in Belgium (c. Jabbeke, d. Zaventem, and e. Wideumont) on April 7 and 8, 2013 (for locations see pink circles on map, blue circles indicate other weather radars in the vicinity). The size of the pink circles represent the height-integrated bird density (birds/km<sup>2</sup>) on April 8, 2013 at peak migration. Colours in upper graphs of each subplot indicate bird density (number of birds/km<sup>3</sup>) with the wind barbs indicating the birds’ ground speed and direction, lower graphs in each subplot indicate the height-integrated bird density (birds/km<sup>2</sup>), grey areas in these graphs indicate periods between dusk and dawn. (figure from [this publication](doi.org/10.1186/2051-3933-2-9))_
+_**Figure 1**: **Mass bird migration observed on five operational weather radars.** Nocturnal bird migration measured by two operational weather radars in the Netherlands (a. Den Helder and b. De Bilt) and three operational weather radars in Belgium (c. Jabbeke, d. Zaventem, and e. Wideumont) on April 7 and 8, 2013 (for locations see pink circles on map, blue circles indicate other weather radars in the vicinity). The size of the pink circles represent the height-integrated bird density (birds/km<sup>2</sup>) on April 8, 2013 at peak migration. Colours in upper graphs of each subplot indicate bird density (number of birds/km<sup>3</sup>) with the wind barbs indicating the birds’ ground speed and direction, lower graphs in each subplot indicate the height-integrated bird density (birds/km<sup>2</sup>), grey areas in these graphs indicate periods between dusk and dawn. (figure from [this publication](http://doi.org/10.1186/2051-3933-2-9))_
 
 ## Peak migration
 
