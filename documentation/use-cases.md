@@ -1,6 +1,4 @@
-Draft list of use cases for visualizations, as recorded during WG3 meeting on February 7, 2014. Needs to be cleaned up + MoSCoW prioritized.
-
-## For presentations
+## Ideas for visualizations
 
 use case | MoSCoW | In data
 --- | --- | ---
@@ -24,7 +22,9 @@ temperature | C | y
 wind support | C | y (complicated)
 combination of radars | M | y
 
-## For research
+## Use cases for research
+
+Draft list of use cases for visualizations, as recorded during WG3 meeting on February 7, 2014.
 
 * map migrating birds
 * bird density
