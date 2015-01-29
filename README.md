@@ -10,7 +10,7 @@ The case study data were [visualized in a flow visualization](http://enram.githu
 
 ## Story
 
-Read more about the case study
+[Read more about the case study](story.md)
 
 ## Data
 
@@ -41,8 +41,8 @@ Aspect | Which dataset(s) do I need?
 Direction of movement | `bird-migration-altitude-profiles`
 Altitude | `bird-migration-altitude-profiles`, `reflectivity-ppi`
 Time | `bird-migration-altitude-profiles`, `reflectivity-ppi`
-Geospatial position of radar | `radars` (can be used in combination with `bird-migration-altitude-profiles` and `reflectivity-ppi`)
-Geospatial position of migration around radar | `reflectivity-ppi`
+Geospatial position of radars | `radars` (can be used in combination with `bird-migration-altitude-profiles` and `reflectivity-ppi`)
+Geospatial position of migration around radars | `reflectivity-ppi`
 Radar reflectivity | `bird-migration-altitude-profiles`, `reflectivity-ppi`
 Bird density | `bird-migration-altitude-profiles`
 Daily patterns | `bird-migration-altitude-profiles`
@@ -51,7 +51,7 @@ Outliers | `bird-migration-altitude-profiles`
 
 ## Issues/questions?
 
-[You can submit it here](https://github.com/enram/case-study/issues).
+[Report it here](https://github.com/enram/case-study/issues).
 
 
 
