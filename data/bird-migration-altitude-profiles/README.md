@@ -1,4 +1,4 @@
-## Bird migration altitude profiles
+# Bird migration altitude profiles
 
 This dataset contains bird migration data for [this case study](https://github.com/enram/case-study) at different altitudes, measured by five weather radars. It is standardized as a [data package](http://dataprotocols.org/data-packages/).
 
