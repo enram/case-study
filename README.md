@@ -41,8 +41,8 @@ Aspect | Which dataset(s) do I need?
 Direction of movement | `bird-migration-altitude-profiles`
 Altitude | `bird-migration-altitude-profiles`, `reflectivity-ppi`
 Time | `bird-migration-altitude-profiles`, `reflectivity-ppi`
-Geospatial position of radars | `radars` (can be used in combination with `bird-migration-altitude-profiles` and `reflectivity-ppi`)
-Geospatial position of migration around radars | `reflectivity-ppi`
+Geospatial position of the radars | `radars` (can be used in combination with `bird-migration-altitude-profiles` and `reflectivity-ppi`)
+Geospatial position of migration around the radars | `reflectivity-ppi`
 Radar reflectivity | `bird-migration-altitude-profiles`, `reflectivity-ppi`
 Bird density | `bird-migration-altitude-profiles`
 Daily patterns | `bird-migration-altitude-profiles`
