@@ -51,7 +51,7 @@ Outliers | `bird-migration-altitude-profiles`
 
 ## Issues/questions?
 
-[Report it here](https://github.com/enram/case-study/issues).
+[Let us know](https://github.com/enram/case-study/issues).
 
 
 
