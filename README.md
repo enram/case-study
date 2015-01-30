@@ -38,12 +38,12 @@ Here's a non-exhaustive list of aspects that could be part of a visualization:
 
 Aspect | Which dataset(s) do I need?
 --- | ---
-Direction of movement | `bird-migration-altitude-profiles`
-Altitude | `bird-migration-altitude-profiles`, `reflectivity-ppi`
 Time | `bird-migration-altitude-profiles`, `reflectivity-ppi`
+Bird reflectivity | `bird-migration-altitude-profiles`, `reflectivity-ppi` (to be derived)
+Direction of movement | `bird-migration-altitude-profiles`, `reflectivity-ppi` (to be derived)
+Altitude | `bird-migration-altitude-profiles`
 Geospatial position of the radars | `radars` (can be used in combination with `bird-migration-altitude-profiles` and `reflectivity-ppi`)
 Geospatial position of migration around the radars | `reflectivity-ppi`
-Radar reflectivity | `bird-migration-altitude-profiles`, `reflectivity-ppi`
 Bird density | `bird-migration-altitude-profiles`
 Daily patterns | `bird-migration-altitude-profiles`
 Day/night patterns | `bird-migration-altitude-profiles`
