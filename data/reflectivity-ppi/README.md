@@ -40,7 +40,7 @@ The conversion from the measured radar reflectivity factors on a polar grid to a
 
 ### Radar settings
 
-The [radar](../data/radars) scans used for these PPIs are:
+The [radar](../radars) scans used for these PPIs are:
 
 * 6260 (De Bilt, Netherlands): 0.8 degrees elevation angle; height increases from 44m at the radar to 1094m at 60km from the radar
 * 6234 (Den Helder, Netherlands): 0.8 degrees elevation angle; height increases from 51m at the radar to 1101m at 60km from the radar
