@@ -9,7 +9,7 @@ During the coming nights weather conditions become very complex with extreme dif
 
 [^1]: http://www.knmi.nl/klimatologie/maand_en_seizoensoverzichten/seizoen/len13.html
 
-![figure-1](../images/figure-1.png)
+![figure-1](images/figure-1.png)
 
 _**Figure 1**: **Mass bird migration observed on five operational weather radars.** Nocturnal bird migration measured by two operational weather radars in the Netherlands (a. Den Helder and b. De Bilt) and three operational weather radars in Belgium (c. Jabbeke, d. Zaventem, and e. Wideumont) on April 7 and 8, 2013 (for locations see pink circles on map, blue circles indicate other weather radars in the vicinity). The size of the pink circles represent the height-integrated bird density (birds/km<sup>2</sup>) on April 8, 2013 at peak migration. Colours in upper graphs of each subplot indicate bird density (number of birds/km<sup>3</sup>) with the wind barbs indicating the birds’ ground speed and direction, lower graphs in each subplot indicate the height-integrated bird density (birds/km<sup>2</sup>), grey areas in these graphs indicate periods between dusk and dawn. (figure from [this publication](http://doi.org/10.1186/2051-3933-2-9))_
 
