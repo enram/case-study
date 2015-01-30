@@ -49,6 +49,13 @@ Daily patterns | `bird-migration-altitude-profiles`
 Day/night patterns | `bird-migration-altitude-profiles`
 Outliers | `bird-migration-altitude-profiles`
 
+Potential user interactions:
+
+* Navigate through time
+* Select a single radar
+* Zoomable map
+* ...
+
 ## Issues/questions?
 
 [Let us know](https://github.com/enram/case-study/issues).
