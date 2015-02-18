@@ -59,4 +59,4 @@ The [radar](../radars) scans used for these PPIs are:
 
 ### Contact
 
-Hidde Leijnse
+[Hidde Leijnse](hidde.leijnse@knmi.nl)
