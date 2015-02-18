@@ -30,7 +30,8 @@ The case study data were [visualized in a flow visualization](http://enram.githu
 ### Supporting data
 
 * [radars](data/radars)
-* [basemap](https://github.com/enram/bird-migration-flow-visualization/tree/master/data/basemap) (part of the bird-migration-flow-visualization repository)
+* [raster basemap](data/basemap)
+* [vector basemap](https://github.com/enram/bird-migration-flow-visualization/tree/master/data/basemap) (part of the bird-migration-flow-visualization repository)
 
 ## Visualizations ideas
 
