@@ -4,9 +4,9 @@
 
 This repository contains data and documentation for a bird migration case study, which focuses on **one week of intense bird migration across the Netherlands and Belgium, from April 5 to April 11 2013**.
 
-The data for this study are retrieved by five weather radars and is very similar to the kind of data that the [European Network for the Radar Surveillance of Animal Movement (ENRAM)](http://enram.eu/) wants to retrieve at a European scale. Being able to process and visualize this type of data would allow researchers to study and understand animal migration at a continental scale.
+The data for this study are retrieved by five weather radars and are very similar to the kind of data that the [European Network for the Radar Surveillance of Animal Movement (ENRAM)](http://enram.eu/) wants to retrieve at a European scale. Being able to process and visualize this type of data would allow researchers to study and understand animal migration at a continental scale.
 
-[Read more about the case study](story.md)
+[Read more about the case study](story.md).
 
 ## Data
 
@@ -16,16 +16,14 @@ The data for this study are retrieved by five weather radars and is very similar
 * **Spatial coverage**: `"bbox":[2.5218,49.495223,7.198506,53.558092]`. All coordinates are [WGS84](http://en.wikipedia.org/wiki/WGS84).
 * **Number of radars**: 5 weather radars: 2 in the Netherlands, 3 in Belgium (see [radars](data/radars)).
 
-### Main data
+### Bird migration data
 
 * [bird-migration-altitude-profiles](data/bird-migration-altitude-profiles)
 * [reflectivity-ppi](data/reflectivity-ppi)
 
-*Note: participants of the [Bird migration visualization challenge & hackathon](http://enram.challengepost.com/) should at least visualize one of these two main datasets, using all 5 radars. We advise to choose only one, in combination with supporting data.*
-
 ### Supporting data
 
-* [radars](data/radars)
+* [radars locations](data/radars)
 * [raster basemap](data/basemap)
 * [vector basemap](https://github.com/enram/bird-migration-flow-visualization/tree/master/data/basemap) (part of the bird-migration-flow-visualization repository)
 
@@ -34,22 +32,7 @@ The data for this study are retrieved by five weather radars and is very similar
 These case study data are visualized in:
 
 * The [bird migration flow visualization](http://enram.github.io/bird-migration-flow-visualization/viz/) by LifeWatch INBO
-* [TIMAMP](http://timamp.github.io/) by the winners of the [bird migration visualization challenge & hackathon](http://enram.challengepost.com/).
-
-A non-exhaustive list of aspects that could be part of visualizations:
-
-Aspect | Which dataset(s) do I need?
---- | ---
-Time | `bird-migration-altitude-profiles`, `reflectivity-ppi`
-Bird reflectivity | `bird-migration-altitude-profiles`, `reflectivity-ppi` (to be derived)
-Direction of movement | `bird-migration-altitude-profiles`, `reflectivity-ppi` (to be derived)
-Altitude | `bird-migration-altitude-profiles`
-Geospatial position of the radars | `radars` (can be used in combination with `bird-migration-altitude-profiles` and `reflectivity-ppi`)
-Geospatial position of migration around the radars | `reflectivity-ppi`
-Bird density | `bird-migration-altitude-profiles`
-Daily patterns | `bird-migration-altitude-profiles`
-Day/night patterns | `bird-migration-altitude-profiles`
-Outliers | `bird-migration-altitude-profiles`
+* [TIMAMP](http://timamp.github.io/) by the winners of the [Bird migration visualization challenge & hackathon](http://enram.challengepost.com/)
 
 ## Issues/questions?
 
