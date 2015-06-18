@@ -1,6 +1,6 @@
 # Description of the case study
 
-This case study focuses on a week of intense bird migration across Belgium and the Netherlands, from April 5 to 11, 2013. Spring 2013 was one of the coldest springs recorded over the last 40 years, with temperatures 4 degrees below average[^1].
+This case study focuses on a week of intense bird migration across the Netherlands and Belgium, from April 5 to 11, 2013. Spring 2013 was one of the coldest springs recorded over the last 40 years, with temperatures 4 degrees below average[^1].
 We begin the series on April 5, 2013 during the phase with little or no migration, and winds blowing predominantly to the SW. The following night between April 6 and 7 started with moderate NE migration, but was overruled after midnight with mass arrival of birds from the UK. In this [flow visualization](http://enram.github.io/bird-migration-flow-visualization/viz/), notice the increasing speed and change in direction just after midnight, April 7 2013, 01:00 UTC.
 
 ## Complex weather conditions
