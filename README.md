@@ -1,14 +1,10 @@
-# Bird migration case study
+# Bird migration case study from the Netherlands and Belgium
 
 ## Introduction
 
-This repository contains data and documentation for a bird migration case study, which focuses on **one week of intense bird migration across Belgium and the Netherlands, from April 5 to April 11 2013**.
+This repository contains data and documentation for a bird migration case study, which focuses on **one week of intense bird migration across the Netherlands and Belgium, from April 5 to April 11 2013**.
 
-The data for this study is retrieved by five weather radars and is very similar to the kind of data that the [European Network for the Radar Surveillance of Animal Movement (ENRAM)](http://enram.eu/) wants to retrieve at a European scale. Being able to process and visualize this type of data would allow researchers to study and understand animal migration at a continental scale.
-
-The case study data were [visualized in a flow visualization](http://enram.github.io/bird-migration-flow-visualization/viz/) by LifeWatch INBO as a proof of concept. Participants of the [Bird migration visualization challenge & hackathon](http://enram.challengepost.com/), organized by ENRAM on 25-27 March 2015, will have the opportunity to visualize these data in other interesting ways.
-
-## Story
+The data for this study are retrieved by five weather radars and is very similar to the kind of data that the [European Network for the Radar Surveillance of Animal Movement (ENRAM)](http://enram.eu/) wants to retrieve at a European scale. Being able to process and visualize this type of data would allow researchers to study and understand animal migration at a continental scale.
 
 [Read more about the case study](story.md)
 
@@ -33,9 +29,14 @@ The case study data were [visualized in a flow visualization](http://enram.githu
 * [raster basemap](data/basemap)
 * [vector basemap](https://github.com/enram/bird-migration-flow-visualization/tree/master/data/basemap) (part of the bird-migration-flow-visualization repository)
 
-## Visualizations ideas
+## Visualizations
 
-Here's a non-exhaustive list of aspects that could be part of a visualization:
+These case study data are visualized in:
+
+* The [bird migration flow visualization](http://enram.github.io/bird-migration-flow-visualization/viz/) by LifeWatch INBO
+* [TIMAMP](http://timamp.github.io/) by the winners of the [bird migration visualization challenge & hackathon](http://enram.challengepost.com/).
+
+A non-exhaustive list of aspects that could be part of visualizations:
 
 Aspect | Which dataset(s) do I need?
 --- | ---
@@ -50,17 +51,6 @@ Daily patterns | `bird-migration-altitude-profiles`
 Day/night patterns | `bird-migration-altitude-profiles`
 Outliers | `bird-migration-altitude-profiles`
 
-Potential user interactions:
-
-* Navigate through time
-* Select a single radar
-* Zoomable map
-* ...
-
 ## Issues/questions?
 
 [Let us know](https://github.com/enram/case-study/issues).
-
-
-
-
