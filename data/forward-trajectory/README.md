@@ -4,7 +4,7 @@ This dataset contains bird migration forward trajectory data as well as wind dat
 
 ## Description
 
-The dataset is a time series. Each record represents a **timeframe** (`date_time`) at which the location (`latitude` and `longitude`) of a bird or particle in the wind is calculated. For birds, we indicate the take-off radar (`radar_id`) and start time bucket (`start_time_id`, useful for grouping data). Particles in the wind have `radar_id=3` and `start_time_id=0`. For the data on the second night, we also include airspeed (`airspeed`) in m/s for the birds (`0` for wind).
+The dataset is a time series. Each record represents a time (`date_time`) at which the location (`latitude` and `longitude`) of a specific bird individual, flock or particle in the wind is calculated (indicated with `track_id`). The tracks start between sunset and two hours after sunset until sunrise, in 5 minute increments. For birds, we indicate the take-off radar (`radar_id`) and start time bucket (`start_time_id`, useful for grouping data). Particles in the wind have `radar_id=3` and `start_time_id=0`. For the data on the second night, we also include airspeed (`airspeed`) in m/s for the birds (`0` for wind).
 
 Radar `1` is located in the Netherlands ("Wier"), radar `2` is located in Belgium ("Glons").
 
