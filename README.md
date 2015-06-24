@@ -20,6 +20,7 @@ The data for this study are retrieved by five weather radars and are very simila
 
 * [bird-migration-altitude-profiles](data/bird-migration-altitude-profiles)
 * [reflectivity-ppi](data/reflectivity-ppi)
+* [forward-trajectory](data/forward-trajectory)
 
 ### Supporting data
 
