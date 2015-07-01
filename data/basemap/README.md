@@ -26,7 +26,7 @@ The dataset is a shapefile containing all countries in the world (including terr
 
 ## Procedure to create a topojson for a certain bounding box
 
-In this example, we create a topojson for [this case study](https://github.com/enram/case-study).
+In this example, we create a topojson for [this case study](https://github.com/enram/case-study): `-4.7 48.6 14.0 54.9`. For a map of Northeastern US, use `-99.9 23.5 -51.1 49.7`.
 
 ### Clip data to bounding box
 
