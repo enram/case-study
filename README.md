@@ -25,8 +25,7 @@ The data for this study are retrieved by five weather radars and are very simila
 ### Supporting data
 
 * [radars locations](data/radars)
-* [raster basemap](data/basemap)
-* [vector basemap](https://github.com/enram/bird-migration-flow-visualization/tree/master/data/basemap) (part of the bird-migration-flow-visualization repository)
+* [basemap](data/basemap)
 
 ## Visualizations
 
