@@ -10,7 +10,7 @@ The dataset is a shapefile containing all countries in the world (including terr
 
 * Shapefile: [countries_minus_lakes.shp](countries_minus_lakes.shp). Compress the whole basemap directory for importing in QGIS or CartoDB.
 
-## Procedure for generating data
+## Procedure for generating the data
 
 ### Source data
 
