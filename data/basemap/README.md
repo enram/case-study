@@ -33,8 +33,8 @@ In this example, we create a topojson for [this case study](https://github.com/e
 Assumes [GDAL](http://www.kyngchaos.com/software/frameworks) is installed:
 
 ```shell
-mkdir shapefiles
-ogr2ogr -f "ESRI Shapefile" shapefiles/countries.shp ../shapefiles/countries_minus_lakes.shp -clipsrc -4.7 48.6 14.0 54.9
+mkdir clipped_shapefile
+ogr2ogr -f "ESRI Shapefile" clipped_shapefile/countries.shp countries_minus_lakes.shp -clipsrc -4.7 48.6 14.0 54.9
 ```
 
 ### Convert to topojson
@@ -42,5 +42,5 @@ ogr2ogr -f "ESRI Shapefile" shapefiles/countries.shp ../shapefiles/countries_min
 Assumes [topojson](http://bost.ocks.org/mike/map/#installing-tools) is installed (see also [topojson documentation](https://github.com/mbostock/topojson/wiki/Command-Line-Reference)):
 
 ```shell
-topojson -o basemap.topojson -- countries=shapefiles/countries.shp
+topojson -o basemap.topojson -- countries=clipped_shapefile/countries.shp
 ```
