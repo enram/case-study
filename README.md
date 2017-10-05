@@ -1,6 +1,6 @@
 # Bird migration case study from the Netherlands and Belgium
 
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.57265.svg)](http://dx.doi.org/10.5281/zenodo.57265)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.592789.svg)](http://dx.doi.org/10.5281/zenodo.592789)
 
 ## Introduction
 
