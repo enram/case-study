@@ -66,7 +66,7 @@
                     },
                     {
                         "name": "bird_reflectivity",
-                        "description": "Bird reflectivity calculated from radar reflectivity. For methodology, see 10.1098/rsif.2010.0116.",
+                        "description": "Bird reflectivity calculated from radar reflectivity. For methodology, see https://doi.org/10.1098/rsif.2010.0116.",
                         "web": "http://doi.org/10.1098/rsif.2010.0116",
                         "type": "number",
                         "unit": "dBZ"
@@ -79,31 +79,31 @@
                     },
                     {
                         "name": "u_speed",
-                        "description": "General movement horizontal speed towards East.",
+                        "description": "Bird ground speed towards east.",
                         "type": "number",
                         "unit": "m/s"
                     },
                     {
                         "name": "v_speed",
-                        "description": "General movement horizontal speed towards North.",
+                        "description": "Bird ground speed towards north.",
                         "type": "number",
                         "unit": "m/s"
                     },
                     {
                         "name": "w_speed",
-                        "description": "Vertical speed",
+                        "description": "Bird vertical speed.",
                         "type": "number",
                         "unit": "m/s"
                     },
                     {
                         "name": "ground_speed",
-                        "description": "General movement ground speed calculated from u_speed and v_speed.",
+                        "description": "Bird ground speed calculated from u_speed and v_speed.",
                         "type": "number",
                         "unit": "m/s"
                     },
                     {
                         "name": "direction",
-                        "description": "General movement direction in degrees. 0 = North.",
+                        "description": "Bird flight direction in degrees. 0 = North.",
                         "type": "number",
                         "unit": "degrees"
                     },
